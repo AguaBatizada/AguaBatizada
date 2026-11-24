@@ -41,15 +41,8 @@ Aplicação desktop em Java (Swing) com SQL Server para gerenciar alunos, modali
 
 `Java` `Swing` `JDBC` `SQL Server` `T-SQL` `MVC` `DAO`
 
-## Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AguaBatizada&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&text_color=c9d1d9&hide_rank=true" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguaBatizada&layout=compact&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9" alt="Linguagens mais usadas">
-</p>
-
 ## Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/diego-citolin-roland-491742334/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2f81f7" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/diego-citolin-roland-491742334/"><img src="https://img.shields.io/badge/LinkedIn-Diego%20Citolin%20Roland-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
