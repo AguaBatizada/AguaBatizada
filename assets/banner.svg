@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Diego Citolin Roland — Back-end Developer em formação">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111a2b"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1f2a3a" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#0d1117" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="14" fill="url(#grid)"/>
+  <rect width="1200" height="280" rx="14" fill="url(#fade)"/>
+
+  <!-- acento -->
+  <rect x="72" y="78" width="4" height="124" rx="2" fill="#2f81f7"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="100" y="122" fill="#e6edf3" font-size="44" font-weight="600" letter-spacing="0.5">Diego Citolin Roland</text>
+    <text x="100" y="162" fill="#8b949e" font-size="22">Estudante de Ciência da Computação · Back-end em formação</text>
+    <text x="100" y="198" fill="#2f81f7" font-size="18" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">Java  ·  SQL  ·  APIs REST  ·  Banco de dados</text>
+  </g>
+
+  <!-- bloco de código decorativo -->
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15">
+    <rect x="800" y="64" width="330" height="152" rx="10" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="822" cy="84" r="5" fill="#30363d"/><circle cx="840" cy="84" r="5" fill="#30363d"/><circle cx="858" cy="84" r="5" fill="#30363d"/>
+    <text x="822" y="118" fill="#ff7b72">public class</text>
+    <text x="928" y="118" fill="#e6edf3">Diego {</text>
+    <text x="842" y="144" fill="#79c0ff">String</text><text x="902" y="144" fill="#e6edf3">foco =</text><text x="964" y="144" fill="#a5d6ff">"back-end"</text><text x="1056" y="144" fill="#e6edf3">;</text>
+    <text x="842" y="170" fill="#79c0ff">int</text><text x="876" y="170" fill="#e6edf3">formatura =</text><text x="978" y="170" fill="#79c0ff">2029</text><text x="1018" y="170" fill="#e6edf3">;</text>
+    <text x="822" y="196" fill="#e6edf3">}</text>
+  </g>
+</svg>
