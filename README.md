@@ -37,14 +37,9 @@ Aplicação desktop em Java (Swing) com SQL Server para gerenciar alunos, modali
 - Arquitetura em camadas (MVC + DAO) com JDBC e `PreparedStatement`
 - Modelagem relacional com relação N:N, views, procedures, functions e triggers de auditoria
 - Credenciais do banco lidas de variáveis de ambiente, fora do código
+- Erros do banco tratados e exibidos na interface; compilação verificada por GitHub Actions
 
 `Java` `Swing` `JDBC` `SQL Server` `T-SQL` `MVC` `DAO`
-
-### Outros estudos
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [ping-pong](https://github.com/AguaBatizada/ping-pong) | Jogo Pong contra o computador, com placar e efeitos sonoros, feito em curso de lógica de programação | JavaScript, p5.js |
 
 ## Estatísticas
 
