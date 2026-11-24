@@ -31,10 +31,9 @@
   <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15">
     <rect x="800" y="64" width="330" height="152" rx="10" fill="#0d1117" stroke="#30363d"/>
     <circle cx="822" cy="84" r="5" fill="#30363d"/><circle cx="840" cy="84" r="5" fill="#30363d"/><circle cx="858" cy="84" r="5" fill="#30363d"/>
-    <text x="822" y="118" fill="#ff7b72">public class</text>
-    <text x="928" y="118" fill="#e6edf3">Diego {</text>
-    <text x="842" y="144" fill="#79c0ff">String</text><text x="902" y="144" fill="#e6edf3">foco =</text><text x="964" y="144" fill="#a5d6ff">"back-end"</text><text x="1056" y="144" fill="#e6edf3">;</text>
-    <text x="842" y="170" fill="#79c0ff">int</text><text x="876" y="170" fill="#e6edf3">formatura =</text><text x="978" y="170" fill="#79c0ff">2029</text><text x="1018" y="170" fill="#e6edf3">;</text>
+    <text x="822" y="118" xml:space="preserve"><tspan fill="#ff7b72">public class</tspan><tspan fill="#e6edf3"> Diego {</tspan></text>
+    <text x="842" y="144" xml:space="preserve"><tspan fill="#79c0ff">String</tspan><tspan fill="#e6edf3"> foco = </tspan><tspan fill="#a5d6ff">"back-end"</tspan><tspan fill="#e6edf3">;</tspan></text>
+    <text x="842" y="170" xml:space="preserve"><tspan fill="#79c0ff">int</tspan><tspan fill="#e6edf3"> formatura = </tspan><tspan fill="#79c0ff">2029</tspan><tspan fill="#e6edf3">;</tspan></text>
     <text x="822" y="196" fill="#e6edf3">}</text>
   </g>
 </svg>
